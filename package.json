@@ -1,0 +1,15 @@
+{
+  "name": "gap-cli",
+  "version": "1.0.4",
+  "type": "module",
+  "bin": {
+    "gap-cli": "index.js",
+    "ggp": "index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
